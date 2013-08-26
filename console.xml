@@ -108,7 +108,7 @@
 				</image>
 			</background>
 		</tab>
-		<tab title="PowerShell" use_default_icon="0">
+		<tab title="PowerShell" icon=".\icons\powershell.ico" use_default_icon="0">
 			<console shell="%SystemRoot%\syswow64\WindowsPowerShell\v1.0\powershell.exe" init_dir="c:\" run_as_user="0" user=""/>
 			<cursor style="4" r="255" g="255" b="255"/>
 			<background type="0" r="1" g="36" b="86">
