@@ -6,5 +6,6 @@ Clone this repository to your Console2 installation folder to override the defau
 Improvements
 ------------
 * CTRL-F2 to open a new VS2012 command prompt
+* CTRL-F3 to open a PowerShell command prompt
 * UI improvements (Consolas font, hidden tray icon / menus / status bar)
 * Copy on select
